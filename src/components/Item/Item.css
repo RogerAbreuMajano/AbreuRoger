@@ -1,0 +1,23 @@
+.cardProducto {
+    background-color: #75bdae;
+    border-radius: 70px;
+    border-style: solid;
+    width: 15rem;
+    padding: 2rem;
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgProducto {
+    width: 150px;
+    object-fit: contain;
+}
+
+
+.name{
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 8px;
+}
