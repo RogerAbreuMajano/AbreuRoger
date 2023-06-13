@@ -14,14 +14,14 @@ const NavBar = () => {
             <ul>
               <h1>Mi tienda OnlinE</h1>
                 <li>
-                  <NavLink className="navegacion" to={"/categoria/2"}> Carne </NavLink>
+                  <NavLink className="navegacion" to={""}> Carne </NavLink>
                 </li>
 
                 <li>
-                  <NavLink className="navegacion"  to={"/categoria/3"}> Frutas </NavLink>
+                  <NavLink className="navegacion"  to={""}> Frutas </NavLink>
                 </li>
                 <li>
-                  <NavLink className="navegacion"  to={"/categoria/1"}> Bebidas </NavLink>
+                  <NavLink className="navegacion"  to={""}> Bebidas </NavLink>
                 </li>
             </ul>
         </nav>
